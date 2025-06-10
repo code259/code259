@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanPranav&show_icons=true&count_private=true&theme=dark&hide_title=true&border_radius=10)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code259&show_icons=true&count_private=true&theme=dark&hide_title=true&border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanPranav&layout=compact&theme=dark&hide_title=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code259&layout=compact&theme=dark&hide_title=true&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SanPranav&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code259&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanPranav&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code259&theme=github-dark)
 
 ### 🧰 Some of my Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
