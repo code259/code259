@@ -38,8 +38,7 @@
 - 🧩 **Generative Models** — VAEs, diffusion, and controllable generation
 
 ### Some Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code259&show_icons=true&count_private=true&theme=dark&hide_title=true&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code259&layout=compact&theme=dark&hide_title=true&border_radius=10)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code259&theme=dark)
 
 <!--
