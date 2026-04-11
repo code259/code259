@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skill Stack
 
 <div align="center">
 
@@ -44,6 +44,10 @@
 ![Codex](https://img.shields.io/badge/Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
+</div>
+
+<div>
+    <img src="./terminal.gif" alt="Terminal GIF"/>
 </div>
 
 ---
