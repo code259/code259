@@ -1,14 +1,4 @@
-<div align="center">
-
-# Hi, I'm Nikhil 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+%2B+Science;Building+HELIX;Computational+Drug+Discovery;Systems+%2B+Research+Driven)](https://git.io/typing-svg)
-
-📍 **San Diego, California**  
-🤖 **AI + Science**  
-🚀 **Building: HELIX**
-
-</div>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=260&section=header&text=Hi,%20I'm%20Nikhil&fontSize=60&fontColor=70A5FD&animation=fadeIn&fontAlignY=38&desc=AI%20+%20Science%20•%20Building%20HELIX&descSize=20&descAlignY=55)](https://github.com/code259)
 
 ---
 
