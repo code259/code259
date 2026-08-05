@@ -1,102 +1,59 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=260&section=header&text=Hi,%20I'm%20Nikhil&fontSize=60&fontColor=70A5FD&animation=fadeIn&fontAlignY=38&desc=AI%20+%20Science%20•%20Building%20Cool%20Stuff&descSize=20&descAlignY=55)](https://github.com/code259)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=260&section=header&text=Hi,%20I'm%20Nikhil&fontSize=60&fontColor=70A5FD&animation=fadeIn&fontAlignY=38&desc=AI%20+%20Safety%20•%20Building%20Cool%20Stuff&descSize=20&descAlignY=55)](https://github.com/code259)
 
----
-<div align="center">
+## Nikhil Maturi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+%2B+Science;Building+HELIX;Computational+Drug+Discovery;Systems+%2B+Research+Driven)](https://git.io/typing-svg)
+AI safety research, infrastructure, and BioML. Currently a research intern at **EleutherAI (SOAR)**,
+working on cheap evaluation methods for inoculation prompting. In terms of engineering I build data pipelines,
+backend services, and ML systems for AI safety and BioML research.
 
-📍 **San Diego, California**  
-🤖 **AI + Science**  
-🚀 **Building: HELIX**
-
-</div>
+San Diego, CA · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/nikhil-maturi-40a8ab369/)) · [Email](mailto:nikhilmaturi.dev@gmail.com)
 
 ---
 
-## 🧠 What I'm Building
+### Current work
 
-- 🧬 **[HELIX](https://github.com/code259/HELIX)**  
-  → Antibiotic adjuvant discovery platform (RecA inhibition + ML + docking)
+**Inoculation prompt evaluation** — EleutherAI SOAR.
+A low-cost heuristic for predicting when a training-time inoculation prompt suppresses a target
+trait without inoculating against off-target traits. Fine-tuning infrastructure, LLM-as-judge
+evaluation pipeline, Tinker API and cloud GPUs. 
 
-- 🚇 **[OpenCodingSociety](https://github.com/Open-Coding-Society/pages)**  
-  → Integrated CS learning system
+**UmamiBench** — a benchmark measuring scientific judgment in frontier models. Construct
+definition, task rubric design, and the model evaluation pipeline.
 
-- 🧬 **[OpenBioML](https://github.com/OpenBioML)**  
-  → Bio + ML experiments, tools, and research
+**HELIX** — ML architectures for identifying selective RecA antibiotic adjuvants that reduce
+quinolone resistance. Designed the full computational stack: a docking pipeline over millions of
+compounds (20 → 2,500 ligands/hr via sharding, caching, and parallelization; 40k+ CPU hours on
+GCP), custom potency classifiers, and dataset curation.
 
----
-
-## 🛠️ Skill Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-0B3D91?style=for-the-badge&logo=python&logoColor=white)
-![Biopython](https://img.shields.io/badge/Biopython-3E8E41?style=for-the-badge&logo=python&logoColor=white)
-![GROMACS](https://img.shields.io/badge/GROMACS-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-005571?style=for-the-badge&logo=python&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-![Codex](https://img.shields.io/badge/Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/code259/code259/main/terminal.gif" alt="Terminal GIF" />
-
-</div>
+Some current safety work isn't public yet; happy to discuss it directly.
 
 ---
 
-## 🔬 What I'm Exploring
+### Some engineering work
 
-- 🧪 Computational Drug Design (docking + ML + physics)
-- 🧬 Protein ML (structure, function, representation learning)
-- 🤖 Agentic Systems + Tool Use
-- 🧠 LLM Training (pretraining → RL → scaling)
-- ⚖️ AI Alignment
-- 📊 Benchmarking + Evaluation
-- ⚡ Neuromorphic / Physical Neural Networks
-- 🌐 Distributed Systems for ML
-- 📱 Edge AI
-- 🧩 Generative Models (VAE, diffusion, controllability)
+Selected merged pull requests from @OpenCodingSociety:
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code259&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+| PR | What it does |
+|---|---|
+| [`spring#78`](https://github.com/Open-Coding-Society/spring/pull/78) | General S3 file API — artifact upload/retrieval service, credential handling, storage abstraction |
+| [`spring#108`](https://github.com/Open-Coding-Society/spring/pull/108) | S3 integration for the analytics layer |
+| [`flask#38`](https://github.com/Open-Coding-Society/flask/pull/38) | Backend API endpoints |
+| [`pages#409`](https://github.com/Open-Coding-Society/pages/pull/409) | LLM integration over platform analytics data, admin stats API, admin-only access control |
+| [`pages#406`](https://github.com/Open-Coding-Society/pages/pull/406) | API integration across the frontend |
+| [`pages#630`](https://github.com/Open-Coding-Society/pages/pull/630) | Admin analytics dashboard |
+| [`pages#1011`](https://github.com/Open-Coding-Society/pages/pull/1011) | Frontend feature work |
 
 ---
 
-## ⚡ Current Focus
+### Focus areas
 
-```text
-🔬 Research: Selective RecA inhibition (HELIX)
-⚙️ Systems: Scaling docking + ML pipelines
-🧠 Learning: Physics-based modeling + LLM systems
-🚀 Goal: Build real, deployable scientific systems
-```
+Mechanistic interpretability and evaluation · Empirical Alignment and Pretraining · ML for biology and scientific imaging ·
+Data pipelines and backend infrastructure
 
----
 
-## 💡 Quote
-
-> “What I cannot create, I do not understand.”  
-> — Richard Feynman
-
----
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-**Building at the intersection of AI, science, and systems.**
 
 </div>
