@@ -25,7 +25,7 @@ quinolone resistance. Designed the full computational stack: a docking pipeline 
 compounds (20 → 2,500 ligands/hr via sharding, caching, and parallelization; 40k+ CPU hours on
 GCP), custom potency classifiers, and dataset curation.
 
-Some current safety work isn't public yet; happy to discuss it directly.
+Some current safety work isn't public yet.
 
 ---
 
