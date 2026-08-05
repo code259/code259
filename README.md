@@ -14,10 +14,10 @@ San Diego, CA · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE](https://www.lin
 
 **Inoculation prompt evaluation** — EleutherAI SOAR.
 A low-cost heuristic for predicting when a training-time inoculation prompt suppresses a target
-trait without inoculating against off-target traits. Fine-tuning infrastructure, LLM-as-judge
+trait without inoculating against off-target traits. Some skills/tools: Fine-tuning infrastructure, LLM-as-judge
 evaluation pipeline, Tinker API and cloud GPUs. 
 
-**UmamiBench** — a benchmark measuring scientific judgment in frontier models. Construct
+**UmamiBench** — a benchmark measuring scientific judgment in frontier models. Some skills/tools: Construct
 definition, task rubric design, and the model evaluation pipeline.
 
 **HELIX** — ML architectures for identifying selective RecA antibiotic adjuvants that reduce
