@@ -12,18 +12,13 @@ San Diego, CA · [LinkedIn](https://www.linkedin.com/in/nikhil-maturi/) · [Emai
 
 ### Current work
 
-**Inoculation prompt evaluation** — EleutherAI SOAR.
-A low-cost heuristic for predicting when a training-time inoculation prompt suppresses a target
-trait without expensive finetuning runs. Some skills/tools: Fine-tuning infrastructure, LLM-as-judge
-evaluation pipeline, Tinker API and cloud GPUs. 
+**Inoculation prompting and off-target effects** — Developing an open, low-cost method to detect when inoculation prompts also suppress unintended traits or change model personas. Supported by grantmaking.ai and a Thinking Machines Lab Tinker Research Grant.
 
-**UmamiBench** — a benchmark measuring scientific judgment in frontier models. Some skills/tools: Construct
-definition, task rubric design, and the model evaluation pipeline.
+**UmamiBench** — Building a benchmark for scientific judgment in frontier LLMs, including task design, scoring rubrics, and the model evaluation pipeline.
 
-**HELIX** — ML architectures for identifying selective RecA antibiotic adjuvants that reduce
-quinolone resistance. Designed the full computational stack: a docking pipeline over millions of
-compounds (20 → 2,500 ligands/hr via sharding, caching, and parallelization; 40k+ CPU hours on
-GCP), custom potency classifiers, and dataset curation.
+**Positional encodings in vision transformers** — Investigating the mechanisms and effects of absolute and rotary positional encodings through mechanistic interpretability.
+
+**RecA** — Developing ML methods to prioritize RecA inhibitors as potential antibiotic adjuvants, in collaboration with researchers in the University of Cambridge Department of Genetics. Built the computational stack: compound curation, potency classifiers, and a docking pipeline for millions of compounds, using 40,000+ CPU-hours on GCP.
 
 Some current safety work isn't public yet.
 
