@@ -6,7 +6,7 @@ AI safety research, infrastructure, and BioML. Currently a research intern at **
 working on cheap evaluation methods for inoculation prompting. In terms of engineering I build data pipelines,
 backend services, and ML systems for AI safety and BioML research.
 
-San Diego, CA · [LinkedIn](https://www.linkedin.com/in/nikhil-maturi-40a8ab369/) · [Email](mailto:nikhilmaturi.dev@gmail.com)
+San Diego, CA · [LinkedIn](https://www.linkedin.com/in/nikhil-maturi/) · [Email](mailto:nikhilmaturi.dev@gmail.com)
 
 ---
 
